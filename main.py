@@ -1,4 +1,4 @@
- import functions_framework
+import functions_framework
 import os
 from flask import request, jsonify
 import google.generativeai as genai
