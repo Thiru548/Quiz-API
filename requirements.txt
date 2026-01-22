@@ -1,1 +1,2 @@
-package names come here 
+functions-framework==3.*
+google-generativeai
